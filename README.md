@@ -1,7 +1,7 @@
 # Item Creator
 No longer supported (deprecated code).
 >Feel free to refactor / :leaves:
->Too much unnecessary "if"-"else" and string operations :broken_heart::hear_no_evil:. 
+>Warning: Too much unnecessary "if"-"else" and string operations :broken_heart::hear_no_evil:. 
 # About
 Simple list creator tool for managing my old lost server-client side project.
 
