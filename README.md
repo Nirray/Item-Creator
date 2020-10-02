@@ -1,4 +1,4 @@
-# Item Creator
+# Server side item creator
 No longer supported (deprecated code).
 >Feel free to refactor / :leaves:
 >Warning: Too much unnecessary "if"-"else" and string operations :broken_heart::hear_no_evil:. 
